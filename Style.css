@@ -17,6 +17,12 @@
     color: blue;
     margin: 0 15px;
 }
+ul nav{
+    list-style: none;
+    /* text-align: center; */
+   
+    padding: 10px;
+}
 th,td{
     border: 1px solid green;
    
@@ -29,4 +35,7 @@ h1{
     margin: 5px;
 }a{
     color: blue;
+}
+ol{
+
 }
